@@ -1,2 +1,2 @@
-# Flappy-Bird-FPGA
-Flappy Bird Game implemented on FPGA board
+Project Video:
+https://www.youtube.com/watch?v=Fg1PhcaCXng
